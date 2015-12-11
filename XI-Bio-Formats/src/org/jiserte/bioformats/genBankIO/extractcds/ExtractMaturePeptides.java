@@ -1,6 +1,6 @@
 package org.jiserte.bioformats.genBankIO.extractcds;
 
-//Sacar ejecutables de ac·
+//Sacar ejecutables de ac√°
 //import java.io.BufferedReader;
 //import java.io.InputStream;
 //import java.io.InputStreamReader;

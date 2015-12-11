@@ -1,5 +1,5 @@
 package org.jiserte.bioformats.conversion;
-// TODO Sacar ejecutables de ac·
+// TODO Sacar ejecutables de ac√°
 //import java.io.BufferedReader;
 //import java.io.File;
 //import java.io.FileNotFoundException;

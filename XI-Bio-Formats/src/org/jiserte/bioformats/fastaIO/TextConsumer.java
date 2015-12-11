@@ -6,11 +6,11 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  * 
  * FAS-DPD project, including algorithms design, software implementation and experimental laboratory work, is being developed as a part of the Research Program:
- * 	"Microbiolog�a molecular b�sica y aplicaciones biotecnol�gicas"
+ * 	"Microbiología molecular básica y aplicaciones biotecnológicas"
  * 		(Basic Molecular Microbiology and biotechnological applications)
  * 
  * And is being conducted in:
- * 	LIGBCM: Laboratorio de Ingenier�a Gen�tica y Biolog�a Celular y Molecular.
+ * 	LIGBCM: Laboratorio de Ingeniería Genética y Biología Celular y Molecular.
  *		(Laboratory of Genetic Engineering and Cellular and Molecular Biology)
  *	Universidad Nacional de Quilmes.
  *		(National University Of Quilmes)
@@ -19,7 +19,7 @@
  * The complete team for this project is formed by:
  *	Lic.  Javier A. Iserte.
  *	Lic.  Betina I. Stephan.
- * 	ph.D. Sandra E. Go�i.
+ * 	ph.D. Sandra E. Goñi.
  * 	ph.D. P. Daniel Ghiringhelli.
  *	ph.D. Mario E. Lozano.
  *
